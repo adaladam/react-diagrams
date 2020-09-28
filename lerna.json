@@ -1,9 +1,10 @@
 {
 	"npmClient": "yarn",
 	"useWorkspaces": true,
-	"version": "6.2.0-2",
+	"version": "6.2.0-3",
 	"command": {
 		"publish": {
+			"npmClient": "npm",
 			"registry": "https://nexus.dereknet.com/repository/npm-internal/"
 		}
 	}
