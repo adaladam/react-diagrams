@@ -1,6 +1,6 @@
 {
 	"name": "@projectstorm/geometry",
-	"version": "6.2.0-3",
+	"version": "6.2.0-4",
 	"author": "dylanvorster",
 	"license": "MIT",
 	"repository": {
@@ -30,5 +30,5 @@
 	"main": "./dist/index.js",
 	"module": "./dist/es/index.js",
 	"typings": "./dist/@types/index",
-	"gitHead": "8193a4f79ae11c7c9db9e04fbf4215069155b1f0"
+	"gitHead": "597ce8cd207e9470f4e051ca070fc1dde3df79f0"
 }
